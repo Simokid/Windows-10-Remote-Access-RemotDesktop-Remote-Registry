@@ -85,7 +85,7 @@ Next, let's show how to determine shared drives. On Desktop2, open Command Promp
 Another way to determine shared drives is to search for "Services" in the Windows search bar and run it as Administrator. Use Helpdesk credentials to bypass. In the Services window, search for "Remote Registry," right-click on it, and select "Properties." Change the "Startup type" from "Disabled" to "Automatic," then click "Apply" and "OK." After that, click "Start" to enable the Remote Registry service. This will allow access to registry information, including shared drives.
 
 9. <p align="center">
-   <img src="https://i.imgur.com/Fs2sQSD.png" height="85%" width="85%" alt="Disk Sanitization Steps 8"/>
+   <img src="https://i.imgur.com/Fs2sQSD.png" height="65%" width="65%" alt="Disk Sanitization Steps 8"/>
    <br />
    <br />
 </p>
@@ -135,7 +135,7 @@ From here, we can delete the "Test" folder we created remotely. Navigate to User
 
 
 15. <p align="center">
-    <img src="https://i.imgur.com/yJXfmoG.png" height="80%" width="80%" alt="Disk Sanitization Steps 14"/>
+    <img src="https://i.imgur.com/yJXfmoG.png" height="65%" width="65%" alt="Disk Sanitization Steps 14"/>
     <br />
     <br />
 </p>
@@ -191,7 +191,7 @@ Now we have remote control of Bob’s computer on Helpdesk.
 Now we can send chats to Bob, request control access on the top left.
 
 22. <p align="center">
-    <img src="https://i.imgur.com/M8Ejl3I.png" height="85%" width="85%" alt="Disk Sanitization Steps 21"/>
+    <img src="https://i.imgur.com/M8Ejl3I.png" height="90%" width="90%" alt="Disk Sanitization Steps 21"/>
     <br />
     <br />
 </p>

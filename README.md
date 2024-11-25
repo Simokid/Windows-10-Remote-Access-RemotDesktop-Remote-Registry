@@ -21,7 +21,7 @@ In this home lab, we will focus on using Windows 10 Remote Management, Remote Re
 
 
 1. <p align="center">
-   <img src="https://i.imgur.com/1cXKTYj.png" height="100%" width="100%" alt="Disk Sanitization Steps 1"/>
+   <img src="https://i.imgur.com/1cXKTYj.png" height="80%" width="80%" alt="Disk Sanitization Steps 1"/>
    <br />
    <br />
 </p>
@@ -29,7 +29,7 @@ In this home lab, we will focus on using Windows 10 Remote Management, Remote Re
 Select “Add” then add Helpdesk then select “OK” then “Apply”. 
 
 2. <p align="center">
-   <img src="https://i.imgur.com/XbAGBXS.png" height="100%" width="100%" alt="Disk Sanitization Steps 2"/>
+   <img src="https://i.imgur.com/XbAGBXS.png" height="80%" width="80%" alt="Disk Sanitization Steps 2"/>
    <br />
    <br />
 </p>
@@ -135,7 +135,7 @@ From here, we can delete the "Test" folder we created remotely. Navigate to User
 
 
 15. <p align="center">
-    <img src="https://i.imgur.com/yJXfmoG.png" height="100%" width="100%" alt="Disk Sanitization Steps 14"/>
+    <img src="https://i.imgur.com/yJXfmoG.png" height="80%" width="80%" alt="Disk Sanitization Steps 14"/>
     <br />
     <br />
 </p>

@@ -29,7 +29,7 @@ In this home lab, we will focus on using Windows 10 Remote Management, Remote Re
 Select “Add” then add Helpdesk then select “OK” then “Apply”. 
 
 2. <p align="center">
-   <img src="https://i.imgur.com/XbAGBXS.png" height="80%" width="80%" alt="Disk Sanitization Steps 2"/>
+   <img src="https://i.imgur.com/XbAGBXS.png" height="60%" width="60%" alt="Disk Sanitization Steps 2"/>
    <br />
    <br />
 </p>

@@ -21,7 +21,7 @@ In this home lab, we will focus on using Windows 10 Remote Management, Remote Re
 
 
 1. <p align="center">
-   <img src="https://i.imgur.com/1cXKTYj.png" height="80%" width="80%" alt="Disk Sanitization Steps 1"/>
+   <img src="https://i.imgur.com/1cXKTYj.png" height="60%" width="60%" alt="Disk Sanitization Steps 1"/>
    <br />
    <br />
 </p>

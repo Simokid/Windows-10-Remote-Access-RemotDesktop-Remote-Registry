@@ -198,7 +198,7 @@ Now we can send chats to Bob, request control access on the top left.
 
 Congratulations! we have successfully access **Windows 10 Remote Management e**xploring the Remote Registry feature, setting up and utilizing Remote Desktop for secure remote control of Windows 10 system and using **C$.**
 
-[Next Lab 9 : RSOP, Group Policy, Task Manager, Disable Logoff](https://github.com/Simokid/RSOP-Group-Policy-Task-Manager-Disable-Logoff/blob/main/README.md)
+ 👉 [Next Lab 9 : RSOP, Group Policy, Task Manager, Disable Logoff](https://github.com/Simokid/RSOP-Group-Policy-Task-Manager-Disable-Logoff/blob/main/README.md)
 
 
 
